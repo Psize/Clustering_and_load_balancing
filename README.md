@@ -6,7 +6,7 @@ haproxy_zadanie_1.cfg - конфиг файла  HAproxy
 
 ## Задание 2  
 
-haproxy_zadanie_2.cfg - конфиг файла  HAproxy
+haproxy_zadanie_2.cfg - конфиг файла  HAproxy  
 Скриншот с указанием домена:  
 <img width="488" height="473" alt="image" src="https://github.com/user-attachments/assets/43ce3837-ec15-4a3c-ace2-ce2134c1b39f" />
 
